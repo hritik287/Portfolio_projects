@@ -1,8 +1,4 @@
-1. Perform any cleaning, exploratory analysis, and/or visualizations of the provided
-data for this analysis (a few sentences/plots describing your approach will suffice).
-What fraction of the observed customers cross-sell to subscription?
-
-
+Conducted data cleaning and exploratory analysis on customer data to identify trends and calculate the cross-sell conversion rate to subscriptions. Created visualizations to support insights and highlighted the fraction of customers transitioning to subscriptions.
 
 
 Data description
